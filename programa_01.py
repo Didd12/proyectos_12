@@ -6,7 +6,7 @@ seguir_clases = True
  
 while seguir:
     print(carreras)
-    print("--------------MENU--------------")
+    print("--------------MENU PRINCIPAL--------------")
     print("1.Crear Carrera")
     print("2.Leer carrera")
     print("3.Actualizar carrera")
